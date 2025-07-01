@@ -1,7 +1,7 @@
 # This is a comment
 
 # Print a message
-print("dev-1")
+print("dev-2")
 
 # Add two numbers
 a = 5
